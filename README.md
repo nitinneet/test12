@@ -29,9 +29,11 @@ A3.
 ![Uploading Screenshot 2019-07-16 at 7.38.58 PM.png…]()
 
 
+
 Q4. Install guest-book application on both namespaces.
 A4. 
 ![Uploading Screenshot 2019-07-16 at 7.39.46 PM.png…]()
+
 
 
 Q5. Expose staging application on hostname staging-guestbook.mstakx.io
