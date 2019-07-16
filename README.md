@@ -26,9 +26,12 @@ resolution.
 Q3. On this cluster, create namespaces called staging and production.
 A3. 
 
+![Uploading Screenshot 2019-07-16 at 7.38.58 PM.png…]()
+
 
 Q4. Install guest-book application on both namespaces.
 A4. 
+![Uploading Screenshot 2019-07-16 at 7.39.46 PM.png…]()
 
 
 Q5. Expose staging application on hostname staging-guestbook.mstakx.io
@@ -36,11 +39,14 @@ A5. Apologies!!  I was not able to create GCP account with my debit/credit card,
 As of now I am able to host it locally but DNS mapping with the service is pending.
 
 Application running on 2 different environment.
+![Uploading Screenshot 2019-07-16 at 7.40.35 PM.png…]()
 
 Application GUI screen-shot for staging
+![Uploading Screenshot 2019-07-16 at 7.41.38 PM.png…]()
 
 
 Application GUI screen-shot for production
+![Uploading Screenshot 2019-07-16 at 7.44.26 PM.png…]()
 
 
 
